@@ -34,7 +34,7 @@ $ npm start
 
 browser to http://localhost:3000
 
-## Checkin, merge and deletre the branch
+## Checkin, merge and delete the branch
 
 ```
 $ git add .
