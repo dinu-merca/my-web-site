@@ -20,3 +20,5 @@ $ git commit -m "Main page initial code"
 $ git push origin feature-main-page
 ```
 
+Use GitHub to create a pull request, review, approve and merge `feature-main-page` into `develop`
+
