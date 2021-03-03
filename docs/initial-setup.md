@@ -34,11 +34,11 @@ $ npm start
 
 browser to http://localhost:3000
 
-## Checkin, merge and deletre the branch
+## Checkin, merge and delete the branch
 
 ```
 $ git add .
-$ git checkin -m "Initial setup"
+$ git commit -m "Initial setup"
 $ git checkout develop
 $ git merge --no-ff feature-initial-template
 $ git branch -d feature-initial-template
