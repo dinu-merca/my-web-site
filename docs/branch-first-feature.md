@@ -20,3 +20,11 @@ $ git commit -m "Main page initial code"
 $ git push origin feature-main-page
 ```
 
+Use GitHub to create a pull request, review, approve and merge `feature-main-page` into `develop`
+
+To use SSH:
+
+```
+$ git remote set-url origin git@github.com:dinu-merca/my-web-site.git
+```
+
