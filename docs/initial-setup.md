@@ -38,7 +38,7 @@ browser to http://localhost:3000
 
 ```
 $ git add .
-$ git checkin -m "Initial setup"
+$ git commit -m "Initial setup"
 $ git checkout develop
 $ git merge --no-ff feature-initial-template
 $ git branch -d feature-initial-template
